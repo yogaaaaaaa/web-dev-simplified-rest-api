@@ -1,0 +1,28 @@
+{
+  "name": "web-dev-simplified-rest-api",
+  "version": "1.0.0",
+  "description": "rest api express-mongodb web dev simplified (yt)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yogaaaaaaa/web-dev-simplified-rest-api.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongodb"
+  ],
+  "author": "yoga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yogaaaaaaa/web-dev-simplified-rest-api/issues"
+  },
+  "homepage": "https://github.com/yogaaaaaaa/web-dev-simplified-rest-api#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.1.2"
+  }
+}
